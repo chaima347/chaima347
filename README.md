@@ -28,7 +28,7 @@
 - **Video Games** 🎮: Always up for a challenge and love gaming in my free time.
 - **Videography** 🎥: Passionate about capturing moments through the lens.
 
-![Basketball GIF](https://media.giphy.com/media/3o7qDLfz22oT63NYQ0/giphy.gif)
+
 
 ---
 
