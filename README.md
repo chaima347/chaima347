@@ -6,7 +6,6 @@
 - 🌱 Always **learning** and exploring new **technologies** to stay ahead in the ever-changing tech world.
 - 🔧 I specialize in **Java**, **Spring Boot**, **Angular**, **Flutter**, and **Database Management**.
 
-![Developer Animation](https://media.giphy.com/media/xUOxf48TtGZp81rHEU/giphy.gif)
 
 ---
 
@@ -20,7 +19,7 @@
 - Currently diving deep into **agile** and **Microservices Architecture**.
 - Exploring **cybersec** and **cloud** to enhance my skill set.
 
-![Learning GIF](https://media.giphy.com/media/xT9IgzoKnwFf6CXw2I/giphy.gif)
+
 
 ---
 
